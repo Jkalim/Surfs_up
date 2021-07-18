@@ -6,8 +6,8 @@ in order to determine if the surf and ice cream shop business is sustainable yea
 of these two month, W. Avy can make an informed decision before opening the surf shop
 
 
-Data Source: hawaii.sqlite
-Sofware: jupyter notebook
+-Data Source: hawaii.sqlite
+-Sofware: jupyter notebook
 
 ## Resuslts
 After the analysis the following are three key difffences between June and December: 
